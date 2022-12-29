@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MasahiroWatanabeEB/packagetest/issues"
   },
-  "homepage": "https://github.com/MasahiroWatanabeEB/packagetest#readme"
+  "homepage": "https://github.com/MasahiroWatanabeEB/packagetest#readme",
+  "publishConfig": {
+    "@MasahiroWatanabeEB:registry": "https://npm.pkg.github.com"
+  }
 }
